@@ -5,7 +5,7 @@
 
 
 ### Author
-Arpit Aggarwal
+Ofek Danny
 
 
 ### Introduction to the Project
